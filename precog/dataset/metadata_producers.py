@@ -41,5 +41,6 @@ PRODUCERS = {
     'carla_town01_A1_T20_lightstate_streamingloader_json': carla_town01_A1_T20_lightstate_metadata_producer,
     'carla_town01_A1_T20_v1_json': carla_town01_A1_T20_lightstate_metadata_producer,
     'carla_town01_A1_T20_v2_json': carla_town01_A1_T20_lightstate_metadata_producer,
-    'Left_Turn_Dataset_json': Left_Turn_Dataset_json_metadata_producer
+    'Left_Turn_Dataset_json': Left_Turn_Dataset_json_metadata_producer,
+    'Custom_Dataset_json': Left_Turn_Dataset_json_metadata_producer
 }
